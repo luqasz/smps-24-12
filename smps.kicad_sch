@@ -1492,7 +1492,7 @@
     (property "Value" "MountingHole" (id 1) (at 19.05 184.1499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad" (id 2) (at 16.51 182.88 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3" (id 2) (at 16.51 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 16.51 182.88 0)
@@ -1658,7 +1658,7 @@
     (property "Value" "MountingHole" (id 1) (at 19.05 189.2299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad" (id 2) (at 16.51 187.96 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3" (id 2) (at 16.51 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 16.51 187.96 0)
@@ -1914,7 +1914,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 142.24 109.22 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b19cdc07-4c16-4749-8880-5b1b66233ab4)
-    (property "Reference" "TP2" (id 0) (at 143.51 111.76 90)
+    (property "Reference" "TP1" (id 0) (at 140.97 111.76 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (id 1) (at 147.32 110.4899 90)
@@ -1951,7 +1951,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 142.24 119.38 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b5bac656-fbb4-4047-8c0d-8404ecf39e3d)
-    (property "Reference" "TP1" (id 0) (at 143.51 121.92 90)
+    (property "Reference" "TP2" (id 0) (at 140.97 121.92 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (id 1) (at 147.32 120.6499 90)
@@ -1990,7 +1990,7 @@
     (property "Value" "MountingHole" (id 1) (at 19.05 179.0699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad" (id 2) (at 16.51 177.8 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3" (id 2) (at 16.51 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 16.51 177.8 0)
@@ -2249,7 +2249,7 @@
     (property "Value" "MountingHole" (id 1) (at 19.05 194.3099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad" (id 2) (at 16.51 193.04 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3" (id 2) (at 16.51 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 16.51 193.04 0)
@@ -2366,16 +2366,16 @@
       (reference "D1") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0805_2012Metric")
     )
     (path "/be315ce4-7106-45b7-89c2-89dbb67c559b"
-      (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
+      (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
     )
     (path "/2551a458-2f16-43a1-81b9-4f1543bf4a19"
-      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
     )
     (path "/52837943-e32c-4fde-ad45-22a60a17bb4c"
-      (reference "H3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
+      (reference "H3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
     )
     (path "/f8c5f4b7-2afc-41c5-bf7d-f4b92a6455d0"
-      (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
+      (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
     )
     (path "/aa8d5637-fa2c-4b11-aa5d-afb55fed7b9f"
       (reference "J1") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
@@ -2407,10 +2407,10 @@
     (path "/d7b8182b-7dc5-4f9d-8a60-d9bda7668625"
       (reference "R5") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
-    (path "/b5bac656-fbb4-4047-8c0d-8404ecf39e3d"
+    (path "/b19cdc07-4c16-4749-8880-5b1b66233ab4"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
-    (path "/b19cdc07-4c16-4749-8880-5b1b66233ab4"
+    (path "/b5bac656-fbb4-4047-8c0d-8404ecf39e3d"
       (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/88610282-a92d-4c3d-917a-ea95d59e0759"
