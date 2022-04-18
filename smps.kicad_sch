@@ -1805,7 +1805,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 972cc210-f8c2-4b7b-91fa-7eea1f2e42c7)
     (property "Reference" "L1" (id 0) (at 62.23 73.66 90))
-    (property "Value" "4.7uH" (id 1) (at 62.23 76.2 90))
+    (property "Value" "10uH" (id 1) (at 62.23 76.2 90))
     (property "Footprint" "Inductor_SMD:L_Wuerth_WE-PD-Typ-LS_Handsoldering" (id 2) (at 62.23 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2384,7 +2384,7 @@
       (reference "J4") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
     )
     (path "/972cc210-f8c2-4b7b-91fa-7eea1f2e42c7"
-      (reference "L1") (unit 1) (value "4.7uH") (footprint "Inductor_SMD:L_Wuerth_WE-PD-Typ-LS_Handsoldering")
+      (reference "L1") (unit 1) (value "10uH") (footprint "Inductor_SMD:L_Wuerth_WE-PD-Typ-LS_Handsoldering")
     )
     (path "/b638c7df-3e06-4f0a-938c-acf46b5528f1"
       (reference "L2") (unit 1) (value "4.7uH") (footprint "Inductor_SMD:L_Wuerth_WE-PD-Typ-LS_Handsoldering")
