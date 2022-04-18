@@ -876,7 +876,7 @@
     (property "TME_SYM" "EEEFK1H470P")
     (path "/88078694-6daf-4cb5-8aa8-fb460783d583")
     (attr smd)
-    (fp_text reference "C2" (at 0.2825 5.5 90) (layer "F.SilkS")
+    (fp_text reference "C2" (at 6 -2.5 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0b9dfbfe-1e19-4396-b6a1-78bceb1cec64)
     )
